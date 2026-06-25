@@ -7,13 +7,13 @@ Features:
 Basic arithmetic operations,
 Calculation history,
 RESTful APIs,
-Layered architecture (Controller-Service-Repository)
+Layered architecture (Controller-Service-Repository).
 
 Technologies:
 Java,
 Spring Boot,
 PostgreSQL,
-Maven
+Maven.
 
 Run:
 Configure PostgreSQL database.
